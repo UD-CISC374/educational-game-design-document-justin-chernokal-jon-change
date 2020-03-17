@@ -1,14 +1,19 @@
 # Game Name
 
+A calculated assualt (working title)
+
 ## Elevator Pitch
+
+You are introduced to a region in turmoil and you are directed to help. To do so you need to use the numbers/citizens of the region. However, not all citizens have the required numbers. Using provided resources you are to judiciously contruct towers/buildings which will be able to change the numbers and save the day!
 
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Kingdom Rush: 
+  - Medium: Game
+  - Explanation: Kingdom Rush is a tower defense game, which requires the player to use towers in unique ways to advance through each       level.
+  
 - *Influence #2*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
@@ -20,26 +25,37 @@
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Provide the correct numbers for the goal by using the tower abilities.
+- Win the level by meeting the goal(s) requirements.
+- Fail level by missing the goal(s) requirements.
+- Advance to next level or choose to repeat after winning.
+- Repeat level after failing.
+- After completeing all levels get a victory screen.
 
 # Learning Aspects
 
 ## Learning Domains
 
+Algebra
+(maybe this should be lower/higher level than algebra)
+
 *Briefly list any and all of the disciplines and learning domains for this subject.*
 
 ## Target Audiences
+
+Students being introduced to algebra.
+Should be appropriate for young kids and adults who enjoy tower defense games.
 
 *Who are your learners?*
 
 ## Target Contexts
 
+To be used as a supplementary form of practice for course teaching algebra.
+Good free time activity for kids k-12.
+
 *Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
 
-## Learning Objectives
+## Learning Objectives 
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
@@ -51,12 +67,14 @@
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
+- Basic math skills such as knowledge of addition and multiplication
 - *Prerequisite Learning Objective #2*
 
 ## Assessment Measures
 
 *Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
+
+  Open response or multiple chioce algebra problem.
 
 *If proposing a new instrument, briefly and concisely list some example assessment questions.*
 
@@ -64,7 +82,7 @@
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
-- *Reason #1*
+- Inolves higher level of strategy, which demand deep understanding of algebra.
 - *Reason #2*
 - *Reason #3*
 - *Reason #4*
@@ -75,6 +93,8 @@
 ## Player Interaction Pattern
 
 *Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+
+Players set up towers on the perimeter of a course. The numbers/citizens of the region/level flow through the course. 
 
 ## Player Modes
 
