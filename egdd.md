@@ -1,10 +1,10 @@
-# Game Name
+# Game Nam
 
 A calculated assualt (working title)
 
 ## Elevator Pitch
 
-You are introduced to a region in turmoil and you are directed to help. To do so you need to use the numbers/citizens of the region. However, not all citizens have the required numbers. Using provided resources you are to judiciously contruct towers/buildings which will be able to change the numbers and save the day!
+You are introduced to a region in turmoil and you are directed to help. To do so you need to use the numbers/citizens of the region. However, not all citizens have the required numbers. Using provided resources you are to judiciously construct towers/buildings which will be able to change the numbers and save the day!
 
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
