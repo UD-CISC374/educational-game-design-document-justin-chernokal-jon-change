@@ -1,4 +1,4 @@
-# Game Nam
+# Game Name
 
 A calculated assualt (working title)
 
