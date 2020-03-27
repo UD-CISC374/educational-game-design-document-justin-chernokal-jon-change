@@ -14,9 +14,10 @@ You are introduced to a region in turmoil and you are directed to help. To do so
   - Medium: Game
   - Explanation: Kingdom Rush is a tower defense game, which requires the player to use towers in unique ways to advance through each       level.
   
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Papa's Pizzeria:
+  - Medium: Game
+  - Explanation: Papa's Pizzeria is a food service game where you must construct a pizza with provided ingredients to meet customers' orders.
+  
 - *Influence #3*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
@@ -43,17 +44,17 @@ Algebra
 
 ## Target Audiences
  - Students being introduced to algebra.
- - Should be appropriate for young kids and adults who enjoy tower defense       games.
+ - Should be appropriate for young kids and adults who enjoy tower defense games.
 
 ## Target Contexts
 
- - To be used as a supplementary form of practice for course teaching         algebra.Good free time activity for kids k-12.
+ - To be used as a supplementary form of practice for course teaching algebra.Good free time activity for kids k-12.
 
 ## Learning Objectives 
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
- - By the end of the lesson. players will be able to solve simple algebraic   problems.
+ - By the end of the lesson. players will be able to solve simple algebraic problems.
  
 - *Short Name*: *Formal Learning Objective #2*
 - *Short Name*: *Formal Learning Objective #3*
@@ -153,6 +154,8 @@ This is a single player game, with click and drag mechanics using the mouse or t
 
 *The Summary or TL;DR version of below*
 
+Region in turmoil, you can help by altering the jobs of the citizens to more appropriate ones required for the current problem pf the level.
+
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
@@ -163,20 +166,41 @@ This is a single player game, with click and drag mechanics using the mouse or t
 
 *Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
 
+The aethestics should be happy and colorful. The game should convey a light-heartedness. There should be a slightly serious feel as the player is supposed to be helping the people of the region.
+
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
-- Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  - Addition tower: some building/tower sprite
+  - Subtratcion tower: ""
+  - Mulitplication tower: ""
+  - Division tower: ""
+  - Monster/Demon/Thief: Negative Numbers
+  - Farmer: Number 0 display on top of sprite
+  - Tailor: Number 1
+  - Buthcer: Number 2
+  - Shepard: Number 3
+  - Blacksmith: Number 4
+  - Flecther: Number 5
+  - Weaver: Number 6
+  - Inn Keeper: Number 7
+  - Mill Worker: Number 8
+  - Barber: Number 9
+  - Artist: Number 10
+  - Soldier: Number 11
+  - King: Number 12
+  - Queen: Number 13
+  - Princess: Number 14
+  - Prince: Number 15
+  - Knight: Number 16
+  - Baker: Number 17
+  - Chef: Number 18
+  - Craftsman: Number 19
+  - LumberJack: Number 20
+  
+- Textures: N/A
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+  - Backgorund: should be a grassy area, some other aesthetic choices can be included.
 
 
 ## Audio
@@ -185,14 +209,18 @@ This is a single player game, with click and drag mechanics using the mouse or t
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+  - General Gameplay: medieval/positvie cheerful music.
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - Addition tower change of number: a distinct wooshing
+  - Substration tower change of number: ""
+  - Multiplication tower change of number: ""
+  - Division tower change of number: ""
+  - Bad guy spawn (number become negative): clear resounding sound, but not alltogether bad sounding
+  - Correct number entering goal: dinging/positive ring sound
+  - wrong number entering goal: an "ooph" sound
 
 
 # Metadata
