@@ -42,24 +42,19 @@ Algebra
 *Briefly list any and all of the disciplines and learning domains for this subject.*
 
 ## Target Audiences
-
-Students being introduced to algebra.
-Should be appropriate for young kids and adults who enjoy tower defense games.
-
-*Who are your learners?*
+ - Students being introduced to algebra.
+ - Should be appropriate for young kids and adults who enjoy tower defense       games.
 
 ## Target Contexts
 
-To be used as a supplementary form of practice for course teaching algebra.
-Good free time activity for kids k-12.
-
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+ - To be used as a supplementary form of practice for course teaching         algebra.Good free time activity for kids k-12.
 
 ## Learning Objectives 
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
+ - By the end of the lesson. players will be able to solve simple algebraic   problems.
+ 
 - *Short Name*: *Formal Learning Objective #2*
 - *Short Name*: *Formal Learning Objective #3*
 
@@ -67,14 +62,18 @@ Good free time activity for kids k-12.
 
 *What do they need to know prior to trying this game?*
 
-- Basic math skills such as knowledge of addition and multiplication
+- Basic math skills starting at knowledge of addition and multiplication
 - *Prerequisite Learning Objective #2*
 
 ## Assessment Measures
 
 *Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
 
-  Open response or multiple chioce algebra problem.
+ Open response or multiple chioce algebra test. (*Perhaps should specify solve for unknown type problems*).
+
+  - Given complex algebra problem, should be able to solve in open response format.
+  - Given simple algebra problems, should be able to solve in mulitple choice format.
+ 
 
 *If proposing a new instrument, briefly and concisely list some example assessment questions.*
 
@@ -92,23 +91,24 @@ Good free time activity for kids k-12.
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
-
 Players set up towers on the perimeter of a course. The numbers/citizens of the region/level flow through the course. 
+
+or
+
+This is a single player game, with click and drag mechanics using the mouse or touchscreen.
 
 ## Player Modes
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+- Single player: advance through rounds & levels until the end is reached.
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
+- Satisfy goal requirements during the round:
+    - Description: Make sure correct numbers go to correct goals
+    - Alignment: This allows the player to treat each number coming into the field like a varible they have to modify.
+  
 - *Primary Objective #2*:
     - Description: *Description*
     - Alignment: *Describe how this aligns with one or more learning objectives*
