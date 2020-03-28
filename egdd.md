@@ -140,21 +140,32 @@ This is a single player game, with click and drag mechanics using the mouse or t
 
 *Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
 
+- Changing numbers makes distinct wooshing noise and changes sprite.
+- Changing to negative numbers makes disitnct noise and changes sprite.
+- Wrong numbers enetering the goal makes a distinct "bad" noise.
+- Correct number entering goal makes a distinct "good" noise.
+- After winning level there is a win message and sound.
+
 # Story and Gameplay
 
 ## Presentation of Rules
 
 *Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
 
+Text shown on the main screen explains objective and some gameplay interactions. Pop-up text on the tower selection menu explains each towers function, how they interact, and how to operate.
+
 ## Presentation of Content
 
 *Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+
+The game does not teach you how to properly perform mathematical operations. That is expected to be delivered with supplementary materials. The game does not teach you how to properly evaluate an algebraic expression. That is expected to be delivered with supplementary materials.
 
 ## Story (Brief)
 
 *The Summary or TL;DR version of below*
 
-Region in turmoil, you can help by altering the jobs of the citizens to more appropriate ones required for the current problem pf the level.
+TL;DR: 
+Region in turmoil, you can help by altering the jobs of the citizens to more appropriate ones required for the problem of the current level.
 
 ## Storyboarding
 
@@ -221,6 +232,7 @@ The aethestics should be happy and colorful. The game should convey a light-hear
   - Bad guy spawn (number become negative): clear resounding sound, but not alltogether bad sounding
   - Correct number entering goal: dinging/positive ring sound
   - wrong number entering goal: an "ooph" sound
+  - Win sound effect
 
 
 # Metadata
