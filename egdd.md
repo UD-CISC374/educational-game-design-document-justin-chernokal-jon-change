@@ -1,10 +1,10 @@
-# Game Name
+# Game Nam
 
 A calculated assualt (working title)
 
 ## Elevator Pitch
 
-You are introduced to a region in turmoil and you are directed to help. To do so you need to use the numbers/citizens of the region. However, not all citizens have the required numbers. Using provided resources you are to judiciously contruct towers/buildings which will be able to change the numbers and save the day!
+You are introduced to a region in turmoil and you are directed to help. To do so you need to use the numbers/citizens of the region. However, not all citizens have the required numbers. Using provided resources you are to judiciously construct towers/buildings which will be able to change the numbers and save the day!
 
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
@@ -12,7 +12,7 @@ You are introduced to a region in turmoil and you are directed to help. To do so
 
 - Kingdom Rush: 
   - Medium: Game
-  - Explanation: Kingdom Rush is a tower defense game, which requires the player to use towers in unique ways to advance through each       level.
+  - Explanation: Kingdom Rush is a tower defense game, which requires the player to utilize various tower types to handle different units to advance through each level.
   
 - Papa's Pizzeria:
   - Medium: Game
@@ -26,7 +26,9 @@ You are introduced to a region in turmoil and you are directed to help. To do so
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- Provide the correct numbers for the goal by using the tower abilities.
+- Determine and place tower types in set locations on map
+- Adjust towers' abilities by selecting a number for it to use.
+- Use tower abilities to manipulate numbers to match the goal .
 - Win the level by meeting the goal(s) requirements.
 - Fail level by missing the goal(s) requirements.
 - Advance to next level or choose to repeat after winning.
@@ -37,8 +39,7 @@ You are introduced to a region in turmoil and you are directed to help. To do so
 
 ## Learning Domains
 
-Algebra
-(maybe this should be lower/higher level than algebra)
+Basic Algebra
 
 *Briefly list any and all of the disciplines and learning domains for this subject.*
 
@@ -48,14 +49,18 @@ Algebra
 
 ## Target Contexts
 
- - To be used as a supplementary form of practice for course teaching algebra.Good free time activity for kids k-12.
+
+ - To be used as a supplementary form of practice for course teaching         algebra
+ - Suitable as a mobile game, so it can be a good free time activity for kids k-12.
+
 
 ## Learning Objectives 
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
- - By the end of the lesson. players will be able to solve simple algebraic problems.
- 
+- By the end of the lesson, players will be able to solve for a variable in simple algebraic problems 
+- By the end of the lesson, players will be able to utilize addition, subtraction, multiplication, and/or division operations. 
+
 - *Short Name*: *Formal Learning Objective #2*
 - *Short Name*: *Formal Learning Objective #3*
 
@@ -63,7 +68,7 @@ Algebra
 
 *What do they need to know prior to trying this game?*
 
-- Basic math skills starting at knowledge of addition and multiplication
+- Basic math skills starting at knowledge of addition, subtraction, multiplication, and division.
 - *Prerequisite Learning Objective #2*
 
 ## Assessment Measures
@@ -72,7 +77,9 @@ Algebra
 
  Open response or multiple chioce algebra test. (*Perhaps should specify solve for unknown type problems*).
 
-  - Given complex algebra problem, should be able to solve in open response format.
+  - Given an equation with a variable, solve for the variable.
+  - Given an equation with two or more operations, apply order of operations.
+  - Given complex algebra problem, should be able to solve in open response format showing their work.
   - Given simple algebra problems, should be able to solve in mulitple choice format.
  
 
@@ -82,7 +89,8 @@ Algebra
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
-- Inolves higher level of strategy, which demand deep understanding of algebra.
+- Involves higher level of strategy due to the need to pre-plan tower locations, which demands deep understanding of algebra.
+- Since a set number of units flow through a finite course, players only have a set amount of time to solve equations simulating a classroom testing environment but with more exciting visuals.
 - *Reason #2*
 - *Reason #3*
 - *Reason #4*
@@ -122,18 +130,33 @@ This is a single player game, with click and drag mechanics using the mouse or t
 # Rules
 
 *What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+ - Tower types are each assigned an operator, this cannot be changed.
+ - Tower abilities refine which numbers they can manipulate, this can be changed freely.
+ - Towers can only be placed in certain spots for each level
+ - Any tower can be placed on each spot.
+ - Numbers on the course are manipulated when they pass a tower
+ - Numbers on the course are manipulated based on the order of operations
+ - The objective number will be clearly indicated at the end of the course and will change for each level.
+ - No more than five wrong numbers can pass the goal, otherwise player fails the level.
 
 # Objects/Entities
 
 *What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+ - Sprites representing each number
+ - Course path art piece (line and corner versions)
+ - Open tower spot ground art piece
+ - Tower sprites
+ - Backdrop
+ 
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
-
-    
+- Cosntruct tower type onto open spot on map
+- Towers manipulate numbers that pass by using its repsective operation
+- If all numbers meet the goal requirements and pass the goal, player passes the level
+- If five numbers do not meet the goal requirement and pass the goal, player fails the level.
+- After completing all levels, game displays victory message and scoreboard.
+  
 ## Feedback
 
 *Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
