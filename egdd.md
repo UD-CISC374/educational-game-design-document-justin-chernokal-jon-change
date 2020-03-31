@@ -1,12 +1,10 @@
-# Game Nam
+# Game Name
 
-A calculated assualt (working title)
+A Calculated Assualt (working title)
 
 ## Elevator Pitch
 
 You are introduced to a region in turmoil and you are directed to help. To do so you need to use the numbers/citizens of the region. However, not all citizens have the required numbers. Using provided resources you are to judiciously construct towers/buildings which will be able to change the numbers and save the day!
-
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
 ## Influences (Brief)
 
@@ -18,13 +16,11 @@ You are introduced to a region in turmoil and you are directed to help. To do so
   - Medium: Game
   - Explanation: Papa's Pizzeria is a food service game where you must construct a pizza with provided ingredients to meet customers' orders.
   
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Ballons Tower Defence:
+  - Medium: Game
+  - Explanation: Ballons Tower Defence is a tower defence game, which is focused on players using resource management to construct wacky towers to attack a hoard of ballons (preventing them from passing) in an way possible.
 
 ## Core Gameplay Mechanics (Brief)
-
-*Give a very high-level description of any core gameplay mechanics*
 
 - Determine and place tower types in set locations on map
 - Adjust towers' abilities by selecting a number for it to use.
@@ -41,7 +37,6 @@ You are introduced to a region in turmoil and you are directed to help. To do so
 
 Basic Algebra
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
 
 ## Target Audiences
  - Students being introduced to algebra.
@@ -61,21 +56,16 @@ Basic Algebra
 - By the end of the lesson, players will be able to solve for a variable in simple algebraic problems 
 - By the end of the lesson, players will be able to utilize addition, subtraction, multiplication, and/or division operations. 
 
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
 
 ## Prerequisite Knowledge
 
 *What do they need to know prior to trying this game?*
 
 - Basic math skills starting at knowledge of addition, subtraction, multiplication, and division.
-- *Prerequisite Learning Objective #2*
 
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
-
- Open response or multiple chioce algebra test. (*Perhaps should specify solve for unknown type problems*).
+Open response or multiple chioce algebra test. (*Perhaps should specify solve for unknown type problems*).
 
   - Given an equation with a variable, solve for the variable.
   - Given an equation with two or more operations, apply order of operations.
@@ -83,32 +73,18 @@ Basic Algebra
   - Given simple algebra problems, should be able to solve in mulitple choice format.
  
 
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
-
 # What sets this project apart?
-
-*Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
 - Involves higher level of strategy due to the need to pre-plan tower locations, which demands deep understanding of algebra.
 - Since a set number of units flow through a finite course, players only have a set amount of time to solve equations simulating a classroom testing environment but with more exciting visuals.
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-Players set up towers on the perimeter of a course. The numbers/citizens of the region/level flow through the course. 
-
-or
-
 This is a single player game, with click and drag mechanics using the mouse or touchscreen.
 
 ## Player Modes
-
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
 - Single player: advance through rounds & levels until the end is reached.
 
@@ -118,18 +94,16 @@ This is a single player game, with click and drag mechanics using the mouse or t
     - Description: Make sure correct numbers go to correct goals
     - Alignment: This allows the player to treat each number coming into the field like a varible they have to modify.
   
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+- Win the game:
+    - Description: Advance through all rounds/levels
+    - Alignment: Player demonstrates the ability to habdle a multitude of diverse algebraically oriented problems.
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+You can click on the building locations for towers and select a tower operation type to build. Then clicking the tower will allow for adjustment of targeted number and magnitude of operation.
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
  - Tower types are each assigned an operator, this cannot be changed.
  - Tower abilities refine which numbers they can manipulate, this can be changed freely.
  - Towers can only be placed in certain spots for each level
@@ -141,21 +115,27 @@ This is a single player game, with click and drag mechanics using the mouse or t
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
  - Sprites representing each number
  - Course path art piece (line and corner versions)
  - Open tower spot ground art piece
  - Tower sprites
  - Backdrop
+ - Popup text descriptions for towers
+ - Popup text instructions
  
 
 ## Core Gameplay Mechanics (Detailed)
 
-- Cosntruct tower type onto open spot on map
-- Towers manipulate numbers that pass by using its repsective operation
-- If all numbers meet the goal requirements and pass the goal, player passes the level
-- If five numbers do not meet the goal requirement and pass the goal, player fails the level.
-- After completing all levels, game displays victory message and scoreboard.
+- Cosntruct tower type onto open spot on map: Click on a designated building location. Select a tower from the build menu and click it.
+
+- Towers manipulate numbers that pass by using its repsective operation: Each tower has a spesific operation (addition, subtraction, multiplication, and division). Each tower has a target number, which is the only number the tower will perfrom its operation upon. Each tower has a spesific magnitude, which will be used in conjunction with the target number and tower operation type to alter the target numbers' value. Both the target number and magnitude can be changed with user input. When the target number passes the tower, the tower changes it with respect to the opperation and magnitude. 
+
+- If all numbers meet the goal requirements and pass the goal, player passes the level: Spesific numbers will be required to pass through the level tot he end. Upon alll numbers reaching the end and being correct the level is won.
+
+- If five numbers, or more, do not meet the goal requirement and pass the goal, player fails the level: If five or more of the numbers that reach the end are not correct the level is lost.
+
+- After completing all levels, game displays victory message and scoreboard:
+New screen with victory message and player score appears on display.
   
 ## Feedback
 
@@ -163,9 +143,9 @@ This is a single player game, with click and drag mechanics using the mouse or t
 
 *Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
 
-- Changing numbers makes distinct wooshing noise and changes sprite.
-- Changing to negative numbers makes disitnct noise and changes sprite.
-- Wrong numbers enetering the goal makes a distinct "bad" noise.
+- Changing numbers makes distinct wooshing noise and changes sprite. 
+- Changing to negative numbers makes disitnct noise and changes sprite. These sprites will also have a red texture change. 
+- Wrong numbers enetering the goal makes a distinct "bad" noise. 
 - Correct number entering goal makes a distinct "good" noise.
 - After winning level there is a win message and sound.
 
@@ -173,22 +153,21 @@ This is a single player game, with click and drag mechanics using the mouse or t
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
-
-Text shown on the main screen explains objective and some gameplay interactions. Pop-up text on the tower selection menu explains each towers function, how they interact, and how to operate.
+- Text shown on the main screen explains objective and some gameplay interactions. 
+- Pop-up text on the tower selection menu explains each towers function, how they interact, and how to operate. 
+- When intriducing new towers or number sprites in a level their will be a quick introductory message explaining mechanics.
 
 ## Presentation of Content
 
 *Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
 
-The game does not teach you how to properly perform mathematical operations. That is expected to be delivered with supplementary materials. The game does not teach you how to properly evaluate an algebraic expression. That is expected to be delivered with supplementary materials.
+- The game does not teach you how to properly perform mathematical operations. That is expected to be delivered with supplementary materials. - - The game does not teach you how to properly evaluate an algebraic expression. That is expected to be delivered with supplementary materials.
+- The player is expected to learn by iteration and application of tower mechanics.
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
-
 TL;DR: 
-Region in turmoil, you can help by altering the jobs of the citizens to more appropriate ones required for the problem of the current level.
+Region in turmoil, you can help by altering the jobs (numbers) of the citizens (sprites) to more appropriate ones required for the problem of the current level.
 
 ## Storyboarding
 
@@ -197,8 +176,6 @@ Region in turmoil, you can help by altering the jobs of the citizens to more app
 # Assets Needed
 
 ## Aethestics
-
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
 
 The aethestics should be happy and colorful. The game should convey a light-heartedness. There should be a slightly serious feel as the player is supposed to be helping the people of the region.
 
@@ -239,13 +216,9 @@ The aethestics should be happy and colorful. The game should convey a light-hear
 
 ## Audio
 
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
 - Music List (Ambient sound)
-  - General Gameplay: medieval/positvie cheerful music.
+  - General Gameplay: medieval/positvie cheerful music. Day time.
   
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
   - Addition tower change of number: a distinct wooshing
