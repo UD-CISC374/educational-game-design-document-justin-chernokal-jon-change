@@ -170,6 +170,8 @@ Region in turmoil, you can help by altering the jobs (numbers) of the citizens (
 
 ![IMG1](https://github.com/UD-CISC374/educational-game-design-document-justin-chernokal-jon-change/blob/master/IMG_20200331_222727.jpg)
 
+![IMG2](https://github.com/UD-CISC374/educational-game-design-document-justin-chernokal-jon-change/blob/master/IMG_20200331_222738.jpg)
+
 # Assets Needed
 
 ## Aethestics
