@@ -91,12 +91,12 @@ This is a single player game, with click and drag mechanics using the mouse or t
 # Gameplay Objectives
 
 - Satisfy goal requirements during the round:
-    - Description: Make sure correct numbers go to correct goals
+    - Description: Manipulate numbers on the map using towers (represeting operation types) to meet the goal criteria
     - Alignment: This allows the player to treat each number coming into the field like a varible they have to modify.
   
 - Win the game:
-    - Description: Advance through all rounds/levels
-    - Alignment: Player demonstrates the ability to habdle a multitude of diverse algebraically oriented problems.
+    - Description: Advance through all rounds/levels by consistently meeting each requirement. Not meeting the criteria more than five times means the level must be replayed.
+    - Alignment: Player demonstrates the ability to handle a multitude of diverse algebraically oriented problems.
 
 # Procedures/Actions
 
@@ -159,15 +159,12 @@ New screen with victory message and player score appears on display.
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
-
 - The game does not teach you how to properly perform mathematical operations. That is expected to be delivered with supplementary materials. - - The game does not teach you how to properly evaluate an algebraic expression. That is expected to be delivered with supplementary materials.
 - The player is expected to learn by iteration and application of tower mechanics.
 
 ## Story (Brief)
 
-TL;DR: 
-Region in turmoil, you can help by altering the jobs (numbers) of the citizens (sprites) to more appropriate ones required for the problem of the current level.
+Region in turmoil, you can help by altering the jobs (numbers) of the citizens (sprites) to more appropriate ones required to resolve the problem of the current level.
 
 ## Storyboarding
 
