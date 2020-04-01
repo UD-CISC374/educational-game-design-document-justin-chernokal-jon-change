@@ -51,21 +51,17 @@ Basic Algebra
 
 ## Learning Objectives 
 
-*Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
-
 - By the end of the lesson, players will be able to solve for a variable in simple algebraic problems 
 - By the end of the lesson, players will be able to utilize addition, subtraction, multiplication, and/or division operations. 
 
 
 ## Prerequisite Knowledge
 
-*What do they need to know prior to trying this game?*
-
 - Basic math skills starting at knowledge of addition, subtraction, multiplication, and division.
 
 ## Assessment Measures
 
-Open response or multiple chioce algebra test. (*Perhaps should specify solve for unknown type problems*).
+Open response or multiple chioce algebra test. 
 
   - Given an equation with a variable, solve for the variable.
   - Given an equation with two or more operations, apply order of operations.
@@ -138,10 +134,6 @@ You can click on the building locations for towers and select a tower operation 
 New screen with victory message and player score appears on display.
   
 ## Feedback
-
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
 
 - Changing numbers makes distinct wooshing noise and changes sprite. 
 - Changing to negative numbers makes disitnct noise and changes sprite. These sprites will also have a red texture change. 
