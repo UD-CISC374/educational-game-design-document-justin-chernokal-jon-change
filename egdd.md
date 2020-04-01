@@ -168,7 +168,7 @@ Region in turmoil, you can help by altering the jobs (numbers) of the citizens (
 
 ## Storyboarding
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+![IMG1](https://github.com/UD-CISC374/educational-game-design-document-justin-chernokal-jon-change/blob/master/IMG_20200331_222727.jpg)
 
 # Assets Needed
 
